@@ -1,2 +1,2 @@
 # Dad-jokes
-Fetch jokes from icanhazad API and render on Screen . In this project we can use Sync/Await 
+In this Project  we Can Fetch jokes from icanhazad API and render into a container. using Sync/Await 
